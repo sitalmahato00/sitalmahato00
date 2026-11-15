@@ -1,121 +1,91 @@
-Hi, I'm Sital Mahato 👋
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=190&section=header&text=Sital%20Mahato&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Builder&descAlignY=60&descSize=17" width="100%" alt="Sital Mahato profile banner" />  <p>
+    <a href="https://github.com/sitalmahato00"><img src="https://img.shields.io/badge/GitHub-sitalmahato00-181717?style=for-the-badge&logo=github" /></a>
+    <img src="https://img.shields.io/badge/Location-Nepal-DC2626?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-Building%20Practical%20Software-4F46E5?style=for-the-badge" />
+  </p>Turning real-world problems into useful digital products.
 
-Software Developer | Full-Stack Web Applications | SaaS Builder
+I build web applications and management systems for educational institutions, departments, and businesses. I enjoy working across backend logic, database design, application architecture, and user experience.
 
-I'm a software developer from Nepal who enjoys building practical software solutions for educational institutions, departments, and businesses.
+</div>---
 
-I focus on transforming real-world requirements into usable applications, with attention to system architecture, database design, backend logic, and user experience.
+👨‍💻 About Me
 
 - 🇳🇵 Based in Nepal
-- 💻 Interested in Full-Stack Development
-- 🚀 Building management systems and SaaS products
-- 🧩 Passionate about solving real-world problems through software
-- 🤝 Open to collaboration and interesting projects
-
----
+- 💻 Focused on full-stack web application development
+- 🚀 Building management systems and SaaS-oriented products
+- 🧠 Interested in software architecture, automation, and AI-assisted development
+- 🤝 Open to meaningful collaborations and product-building opportunities
 
 🚀 Featured Projects
 
-1. IT Department Management System (IT-DMS)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 IT Department Management System</h3>
+      <p>A management platform for academic and IT department workflows.</p>
+      <ul>
+        <li>Student and teacher management</li>
+        <li>Attendance, examinations, and marks</li>
+        <li>Timetables, notices, and study materials</li>
+        <li>Student, parent, and teacher portals</li>
+      </ul>
+      <strong>Stack:</strong> Laravel · PHP · Vue.js · MySQL · Tailwind CSS
+      <br/><br/>
+      <a href="https://github.com/sitalmahato00/IT-DMS">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗂️ Department Digital Form Management System</h3>
+      <p>A digital workflow system to simplify departmental requests and approvals.</p>
+      <ul>
+        <li>Material requests and repair orders</li>
+        <li>Multi-level approval workflows</li>
+        <li>Role-based access control</li>
+        <li>Audit logging and Nepali date support</li>
+      </ul>
+      <strong>Stack:</strong> Laravel · PHP · Vue.js · TypeScript
+      <br/><br/>
+      <a href="https://github.com/sitalmahato00/Department-Digital-Form-Management-System">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏫 MMP Academic Management Portal</h3>
+      <p>An academic management portal developed for Manmohan Memorial Polytechnic.</p>
+      <strong>Stack:</strong> Laravel · PHP · MySQL · Android Kotlin · Tailwind CSS
+      <br/><br/>
+      <a href="https://github.com/sitalmahato00/MMP">View Repository</a>
+      &nbsp;·&nbsp;
+      <a href="https://mmp.sital00.com.np">Live Demo</a>
+    </td>
+  </tr>
+</table>🛠️ Tech Stack
 
-A comprehensive academic and IT department management system.
+<div align="center">Backend & Languages
 
-Features:
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts" />Frontend
 
-- Student and teacher management
-- Attendance management
-- Examination and marks management
-- Timetable management
-- Notice and study material management
-- Parent and student portals
+  <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind,vite" />Database & Tools
 
-Technologies: Laravel, PHP, Vue.js, MySQL, Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,androidstudio" /></div>📊 GitHub Overview
 
-"View Repository" (https://github.com/sitalmahato00/IT-DMS)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sitalmahato00&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitalmahato00&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</div><div align="center">
+  <img src="https://streak-stats.demolab.com?user=sitalmahato00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>🎯 Current Interests
 
-2. Department Digital Form Management System
-
-A digital workflow management application designed to simplify departmental operations.
-
-Features:
-
-- Material request management
-- Repair order management
-- Multi-level approval workflows
-- Role-based access control
-- Audit logging
-- Nepali date support
-
-Technologies: Laravel, PHP, Vue.js, TypeScript
-
-"View Repository" (https://github.com/sitalmahato00/Department-Digital-Form-Management-System)
-
-3. MMP Academic Management Portal
-
-An academic management portal developed for Manmohan Memorial Polytechnic.
-
-Technologies: Laravel, PHP, MySQL, Android Kotlin, Tailwind CSS
-
-Live Demo: https://mmp.sital00.com.np
-
-"View Repository" (https://github.com/sitalmahato00/MMP)
-
----
-
-🛠️ Technology Stack
-
-Backend Development
-
-- PHP
-- Laravel
-
-Frontend Development
-
-- HTML5
-- CSS3
-- JavaScript
-- Vue.js
-- TypeScript
-- Tailwind CSS
-
-Database
-
-- MySQL
-- MariaDB
-- PostgreSQL
-
-Tools
-
-- Git
-- GitHub
-- Vite
-- REST APIs
-
----
-
-🎯 Current Interests
-
-- Building scalable SaaS applications
+- Building useful and scalable SaaS products
+- Business and institutional workflow automation
+- Education technology (EdTech)
 - Software architecture and database design
-- Business automation systems
-- Educational technology (EdTech)
-- AI-assisted software development
 - Application security and performance
+- AI-assisted software development
 
 ---
 
-📊 GitHub Statistics
+<div align="center">Build useful things. Keep learning. Improve every iteration.
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sitalmahato00&show_icons=true&theme=github_dark)
+<a href="https://github.com/sitalmahato00">Explore My Repositories →</a>
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sitalmahato00&layout=compact&theme=github_dark)
-
----
-
-📫 Connect With Me
-
-- GitHub: https://github.com/sitalmahato00
-
----
-
-Building practical solutions. Learning continuously. Improving with every project.
+</div>
