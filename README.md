@@ -20,20 +20,33 @@ I build web applications and management systems for educational institutions, de
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 IT Department Management System</h3>
-      <p>A management platform for academic and IT department workflows.</p>
-      <ul>
-        <li>Student and teacher management</li>
-        <li>Attendance, examinations, and marks</li>
-        <li>Timetables, notices, and study materials</li>
-        <li>Student, parent, and teacher portals</li>
-      </ul>
-      <strong>Stack:</strong> Laravel · PHP · Vue.js · MySQL · Tailwind CSS
-      <br/><br/>
-      <a href="https://github.com/sitalmahato00/IT-DMS">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
+    <div align="center">
+
+# 🎓 MMP Academic Management Portal
+
+### Manmohan Memorial Polytechnic — College Management System
+
+[![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+
+**A comprehensive web-based Academic Management System built for Manmohan Memorial Polytechnic, Budhiganga Rural Municipality-04, Koshi Province**
+
+---
+
+> **Submitted By:**  
+> Sital Mahato (Reg. No: DIT-00174-022) · Priti Dev (Reg. No: DIT-00161-023)  
+> Prem Singh (Reg. No: DIT-00160-023) · Rabin Sardar (Reg. No: DIT-00163-023)  
+>
+> **Project Supervisor:** Mohan Tabdar | **Project Coordinator:** Yubraj Chaudhary  
+> **Department of Information Technology** | April 2026
+
+</div>
+
+---
       <h3>🗂️ Department Digital Form Management System</h3>
       <p>A digital workflow system to simplify departmental requests and approvals.</p>
       <ul>
